@@ -4,4 +4,5 @@ TE's work is not only easy,sometimes boring!
 /********BeiJing Project of CCMP***************/
 /********author: Miao           ***************/
 1.There are some cases for you to know how the TEs think.
-2....
+2.organization of test cases.
+3.mode types
